@@ -52,5 +52,24 @@
     password: 12345678
     
 **Схема SwaggerUI**
-Авторизация
+
+Авторизация:
+
 [login]!(https://github.com/DVsevolod/polls-app/blob/main/img/login.png)
+
+Активные опросы:
+
+[active-polls]!(https://github.com/DVsevolod/polls-app/blob/main/img/active-polls.png)
+
+Пользователи:
+
+[users]!(https://github.com/DVsevolod/polls-app/blob/main/img/users.png)
+
+Опросы:
+
+[polls]!(https://github.com/DVsevolod/polls-app/blob/main/img/polls.png)
+
+Вопросы:
+
+[questions]!(https://github.com/DVsevolod/polls-app/blob/main/img/questions.png)
+
