@@ -55,21 +55,20 @@
 
 Авторизация:
 
-[login]!(https://github.com/DVsevolod/polls-app/blob/main/img/login.png)
+![login](https://github.com/DVsevolod/polls-app/blob/main/img/login.png)
 
 Активные опросы:
 
-[active-polls]!(https://github.com/DVsevolod/polls-app/blob/main/img/active-polls.png)
+![active-polls](https://github.com/DVsevolod/polls-app/blob/main/img/active-polls.png)
 
 Пользователи:
 
-[users]!(https://github.com/DVsevolod/polls-app/blob/main/img/users.png)
+![users](https://github.com/DVsevolod/polls-app/blob/main/img/users.png)
 
 Опросы:
 
-[polls]!(https://github.com/DVsevolod/polls-app/blob/main/img/polls.png)
+![polls](https://github.com/DVsevolod/polls-app/blob/main/img/polls.png)
 
 Вопросы:
 
-[questions]!(https://github.com/DVsevolod/polls-app/blob/main/img/questions.png)
-
+![questions](https://github.com/DVsevolod/polls-app/blob/main/img/questions.png)
