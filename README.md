@@ -52,3 +52,5 @@
     password: 12345678
     
 **Схема SwaggerUI**
+Авторизация
+[login]!(https://github.com/DVsevolod/polls-app/blob/main/img/login.png)
